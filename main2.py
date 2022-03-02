@@ -1,3 +1,7 @@
+# Exercicio - 16                                #
+# https://wiki.python.org.br/ExerciciosListas   #
+# Data: 02/03/2022                              #
+
 import string
 pessoa = "";
 salario = float(0);
