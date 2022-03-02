@@ -1,4 +1,4 @@
-# Exercicio - 15                                  #
+# Exercicio - 15                                #
 # https://wiki.python.org.br/ExerciciosListas   #
 # Data: 01/03/2022                              #
 
