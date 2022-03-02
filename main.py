@@ -1,3 +1,7 @@
+# Exercicio 15                                  #
+# https://wiki.python.org.br/ExerciciosListas   #
+# Data: 01/03/2022                              #
+
 import os
 from distutils.command.clean import clean
 from pickle import APPEND
